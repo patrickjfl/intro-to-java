@@ -1,3 +1,3 @@
-These are a few exercises trying out different bits of basic Java syntax and structure, following this introduction: https://github.com/yrojha4ever/JavaStud.
+These are a few exercises trying out different bits of Java syntax and structure, partly following this introduction: https://github.com/yrojha4ever/JavaStud, but also building other things, like a calculator and my very own Fizz Buzz programme.
 
 The idea is that this will allow me to practise and improve on CodeWars before building something more ambitious...
